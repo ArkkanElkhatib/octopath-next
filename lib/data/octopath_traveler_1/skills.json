@@ -1,0 +1,1106 @@
+{
+	"support_skills": [
+		{
+			"id": 1,
+			"job": "None",
+			"name": "None",
+			"effect": ""
+		},
+		{
+			"id": 2,
+			"job": "Apothecary",
+			"name": "Inspiration",
+			"effect": "With each successful standard attack, gain SP equal to 1% of the damage you deal."
+		},
+		{
+			"id": 3,
+			"job": "Apothecary",
+			"name": "Hale and Hearty",
+			"effect": "Increases maximum HP by 500."
+		},
+		{
+			"id": 4,
+			"job": "Apothecary",
+			"name": "Resist Ailments",
+			"effect": "Improves resistance to poison, sleep, confusion, blindness, silence, terror, and unconsciousness."
+		},
+		{
+			"id": 5,
+			"job": "Apothecary",
+			"name": "Heightened Healing",
+			"effect": "Gain an additional 30% HP or SP when being healed or restored."
+		},
+		{
+			"id": 6,
+			"job": "Cleric",
+			"name": "Persistence",
+			"effect": "All status enhancements you receive will last one additional turn."
+		},
+		{
+			"id": 7,
+			"job": "Cleric",
+			"name": "Inner Strength",
+			"effect": "Increase the maximum SP of the equipped character by 50."
+		},
+		{
+			"id": 8,
+			"job": "Cleric",
+			"name": "Evil Ward",
+			"effect": "Increases the party's success rate when attempting to flee. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 9,
+			"job": "Cleric",
+			"name": "Saving Grace",
+			"effect": "Grants the equipping character the ability to be healed above their maximum HP."
+		},
+		{
+			"id": 10,
+			"job": "Dancer",
+			"name": "The Show Goes On",
+			"effect": "Status augmentations you grant to allies will persist for one additional turn."
+		},
+		{
+			"id": 11,
+			"job": "Dancer",
+			"name": "Eye for an Eye",
+			"effect": "50% chance to counterattack when hit."
+		},
+		{
+			"id": 12,
+			"job": "Dancer",
+			"name": "Second Wind",
+			"effect": "Recover a certain amount of SP each turn."
+		},
+		{
+			"id": 13,
+			"job": "Dancer",
+			"name": "Encore",
+			"effect": "Once per battle, upon being incapacitated you will recover with 25% of your maximum HP."
+		},
+		{
+			"id": 14,
+			"job": "Hunter",
+			"name": "Heighten Senses",
+			"effect": "Gain an increased chance of attack first in a battle. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 15,
+			"job": "Hunter",
+			"name": "Eagle Eye",
+			"effect": "Increases the critical of the equipped character by 50."
+		},
+		{
+			"id": 16,
+			"job": "Hunter",
+			"name": "Second Serving",
+			"effect": "Gives the equipping character a 50% chance of attacking twice when performing a standard attack."
+		},
+		{
+			"id": 17,
+			"job": "Hunter",
+			"name": "Patience",
+			"effect": "At the end of the turn, gives the equipped character a 25% chance of moving again"
+		},
+		{
+			"id": 18,
+			"job": "Merchant",
+			"name": "Endless Items",
+			"effect": "When a character with this skill uses an item, there is a 25% chance the item will not be consumed."
+		},
+		{
+			"id": 19,
+			"job": "Merchant",
+			"name": "Grows on Trees",
+			"effect": "Increases money earned."
+		},
+		{
+			"id": 20,
+			"job": "Merchant",
+			"name": "Hang Tough",
+			"effect": "When the user is not near death, all attacks that would reduce the user's HP below zero will instead leave the user with 1 HP."
+		},
+		{
+			"id": 21,
+			"job": "Merchant",
+			"name": "SP Saver",
+			"effect": "Halves SP consumption for the equipping character."
+		},
+		{
+			"id": 22,
+			"job": "Scholar",
+			"name": "Evasive Maneuvers",
+			"effect": "Reduces the rate of random encounters. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 23,
+			"job": "Scholar",
+			"name": "Elemental Augmentation",
+			"effect": "Augments the equipping character's elemental attack strength by 50."
+		},
+		{
+			"id": 24,
+			"job": "Scholar",
+			"name": "Percipience",
+			"effect": "Prevents the party from being surprised by foes. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 25,
+			"job": "Scholar",
+			"name": "Vim and Vigor",
+			"effect": "The equipping character will regenerate HP each turn. (10% of max health)"
+		},
+		{
+			"id": 26,
+			"job": "Thief",
+			"name": "Incidental Attack",
+			"effect": "When using a non-damaging skill on a foe, there is a 50% chance you will attack as well."
+		},
+		{
+			"id": 27,
+			"job": "Thief",
+			"name": "Fleetfoot",
+			"effect": "Augments the equipping character's speed by 50."
+		},
+		{
+			"id": 28,
+			"job": "Thief",
+			"name": "Snatch",
+			"effect": "The equipping character will receive double the loot when using Steal or Collect skills."
+		},
+		{
+			"id": 29,
+			"job": "Thief",
+			"name": "Insult to Injury",
+			"effect": "Status ailments and attribute penalties inflicted by equipping character will last for one additional turn."
+		},
+		{
+			"id": 30,
+			"job": "Warrior",
+			"name": "Cover",
+			"effect": "The equipping character will absorb single-targeted damage for allies who are near death."
+		},
+		{
+			"id": 31,
+			"job": "Warrior",
+			"name": "Summon Strength",
+			"effect": "Increases the physical strength of the equipping character by 50."
+		},
+		{
+			"id": 32,
+			"job": "Warrior",
+			"name": "Endure",
+			"effect": "When the equipping character is afflicted with poison, sleep, confusion, blindness, silence, terror, or unconsciousness, their physical and elemental defenses are enhanced."
+		},
+		{
+			"id": 33,
+			"job": "Warrior",
+			"name": "Surpassing Power",
+			"effect": "Increases the maximum damage that can be dealt by the equipping character to 99,999."
+		},
+		{
+			"id": 34,
+			"job": "Runelord",
+			"name": "Stat Swap",
+			"effect": "Elemental and physical attack strength will be swapped with one another."
+		},
+		{
+			"id": 35,
+			"job": "Runelord",
+			"name": "SP Recovery",
+			"effect": "Upon taking damage from a foe, gain an amount of SP equal to 1% of damage taken."
+		},
+		{
+			"id": 36,
+			"job": "Runelord",
+			"name": "Dauntless",
+			"effect": "Gain increased physical and elemental attack when suffering from a status ailment."
+		},
+		{
+			"id": 37,
+			"job": "Runelord",
+			"name": "Elemental Edge",
+			"effect": "Gain augmented elemental attack and defense in battle."
+		},
+		{
+			"id": 38,
+			"job": "Sorcerer",
+			"name": "Intimidation",
+			"effect": "Grants a 25% chance that foes will begin battle with reduced physical attack and elemental attack*. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 39,
+			"job": "Sorcerer",
+			"name": "Stronger Strikes",
+			"effect": "Increases damage dealt when striking a foe's weak point."
+		},
+		{
+			"id": 40,
+			"job": "Sorcerer",
+			"name": "Elemental Aid",
+			"effect": "Elemental attacks consume double SP, but also deal more damage."
+		},
+		{
+			"id": 41,
+			"job": "Sorcerer",
+			"name": "Augmented Elements",
+			"effect": "Increase damage dealt by elemental attacks."
+		},
+		{
+			"id": 42,
+			"job": "Starseer",
+			"name": "Hard Worker",
+			"effect": "Gain additional JP after battles. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 43,
+			"job": "Starseer",
+			"name": "Boost-Start",
+			"effect": "Gain an additional 1BP at the start of battle"
+		},
+		{
+			"id": 44,
+			"job": "Starseer",
+			"name": "BP Eater",
+			"effect": "Boosted skills performed by the equipping character deal additional damage."
+		},
+		{
+			"id": 45,
+			"job": "Starseer",
+			"name": "Divine Aura",
+			"effect": "The equipping character gains a 25% chance of nullifying any damage taken."
+		},
+		{
+			"id": 46,
+			"job": "Warmaster",
+			"name": "Extra Experience",
+			"effect": "Gain additional experience from battles. (Equipping this skill with multiple characters will have no added effect)"
+		},
+		{
+			"id": 47,
+			"job": "Warmaster",
+			"name": "Stalwart Defense",
+			"effect": "Increase physical defense by 50."
+		},
+		{
+			"id": 48,
+			"job": "Warmaster",
+			"name": "Fortitude",
+			"effect": "Deal more damage the lower your current HP is."
+		},
+		{
+			"id": 49,
+			"job": "Warmaster",
+			"name": "Physical Prowess",
+			"effect": "Augments physical attack and defense during battle."
+		}
+	],
+	"skills": {
+		"Apothecary": [
+			{
+				"id": 1,
+				"name": "First Aid",
+				"sp": 4,
+				"type": [
+					"heal"
+				],
+				"effect": "Restores HP to a single ally."
+			},
+			{
+				"name": "Icicle",
+				"sp": 7,
+				"type": [
+					"ice"
+				],
+				"effect": "Deal ice damage to a signel foe."
+			},
+			{
+				"name": "Rehabilitate",
+				"sp": 10,
+				"type": [
+					"heal"
+				],
+				"effect": "Cure a single ally of all status ailments, and render them immue to further ailments for 2 turns."
+			},
+			{
+				"name": "Amputation",
+				"sp": 8,
+				"type": [
+					"axe"
+				],
+				"effect": "Unleash an axe attack on a single foe."
+			},
+			{
+				"name": "Empoison",
+				"sp": 6,
+				"type": [
+					"debuff"
+				],
+				"effect": "Poison a single foe for 2 turns."
+			},
+			{
+				"name": "Vivify",
+				"sp": 16,
+				"type": [
+					"revive"
+				],
+				"effect": "Revive a single incapacitated ally."
+			},
+			{
+				"name": "Last Stand",
+				"sp": 16,
+				"type": [
+					"axe"
+				],
+				"effect": "Attack all foes with an axe, dealing damage inversely proportional to your current HP."
+			},
+			{
+				"name": "Dohter's Charity",
+				"sp": 30,
+				"type": [
+					"buff"
+				],
+				"effect": "[Divine Skill] For 3 turns, items used by a single chosen ally will affect all."
+			}
+		],
+		"Cleric": [
+			{
+				"name": "Heal Wound",
+				"sp": 8,
+				"type": [
+					"heal"
+				],
+				"effect": "Restore HP to all allies."
+			},
+			{
+				"name": "Holy Light",
+				"sp": 6,
+				"type": [
+					"light"
+				],
+				"effect": "Inflict light-based damage on a single foe."
+			},
+			{
+				"name": "Sheltering Veil",
+				"sp": 6,
+				"type": [
+					"buff"
+				],
+				"effect": "Augment a single ally's elemental defense for 2 turns."
+			},
+			{
+				"name": "Luminescence",
+				"sp": 9,
+				"type": [
+					"light"
+				],
+				"effect": "Deal light-based damage to all foes."
+			},
+			{
+				"name": "Heal More",
+				"sp": 25,
+				"type": [
+					"heal"
+				],
+				"effect": "Restore a large amount of HP to all allies."
+			},
+			{
+				"name": "Reflective Veil",
+				"sp": 22,
+				"type": [
+					"buff"
+				],
+				"effect": "Grant a single ally the ability to reflect one elemental attack."
+			},
+			{
+				"name": "Revive",
+				"sp": 50,
+				"type": [
+					"revive"
+				],
+				"effect": "Revive all incapacitated allies."
+			},
+			{
+				"name": "Aelfric's Auspices",
+				"sp": 30,
+				"type": [
+					"buff"
+				],
+				"effect": "For 3 turns, skills performed by a single chosen ally will trigger twice (this will not affect other divine skills)."
+			}
+		],
+		"Dancer": [
+			{
+				"name": "Lion Dance",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Augment a single ally's physical attacks for 2 turns."
+			},
+			{
+				"name": "Moonlight Waltz",
+				"sp": 7,
+				"type": [
+					"dark"
+				],
+				"effect": "Deal heavy dark damage to a single foe."
+			},
+			{
+				"name": "Peacock Strut",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Augment a single ally's elemental attacks for 2 turns."
+			},
+			{
+				"name": "Mole Dance",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Augment a single ally's physical defense for 2 turns."
+			},
+			{
+				"name": "Night Ode",
+				"sp": 10,
+				"type": [
+					"dark"
+				],
+				"effect": "Deal dark damage to all foes."
+			},
+			{
+				"name": "Panther Dance",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Augment a single ally's speed for 2 turns."
+			},
+			{
+				"name": "Bewildering Grace",
+				"sp": 25,
+				"type": [
+					"unique"
+				],
+				"effect": "Cause a curious effect to occur one time."
+			},
+			{
+				"name": "Sealticge's Seduction",
+				"sp": 30,
+				"type": [
+					"buff"
+				],
+				"effect": "[Divine Skill] For 3 turns, skills performed by a single ally that usually target one foe (or ally) will affect all foes (or allies) instead (this will not affect divine skills)."
+			}
+		],
+		"Hunter": [
+			{
+				"name": "Rain of Arrows",
+				"sp": 8,
+				"type": [
+					"bow"
+				],
+				"effect": "Attack random foes 5 to 8 times with a bow."
+			},
+			{
+				"name": "True Strike",
+				"sp": 10,
+				"type": [
+					"bow"
+				],
+				"effect": "Deal critical damage with a bow to a single foe."
+			},
+			{
+				"name": "Thunderbird",
+				"sp": 7,
+				"type": [
+					"lightning"
+				],
+				"effect": "Deal heavy lightning damage to a single foe."
+			},
+			{
+				"name": "Leghold Trap",
+				"sp": 6,
+				"type": [
+					"debuff"
+				],
+				"effect": "Cause a single foe to act at the end of the turn for 2 turns."
+			},
+			{
+				"name": "Mercy Strike",
+				"sp": 4,
+				"type": [
+					"bow"
+				],
+				"effect": "Attack a single foe with a bow. Otherwise lethal attacks will instead leave the target with 1HP."
+			},
+			{
+				"name": "Arrowstorm",
+				"sp": 24,
+				"type": [
+					"bow"
+				],
+				"effect": "Attack all foes 5 to 8 times with a bow."
+			},
+			{
+				"name": "Take Aim",
+				"sp": 8,
+				"type": [
+					"buff"
+				],
+				"effect": "Increases all allies' critical rate and accuracy for 2 turns."
+			},
+			{
+				"name": "Draefendi's Rage",
+				"sp": 30,
+				"type": [
+					"bow"
+				],
+				"effect": "[Divine Skill] Unleash a highly powerful bow attack on all foes."
+			}
+		],
+		"Merchant": [
+			{
+				"name": "Collect",
+				"sp": 2,
+				"type": [
+					"unique"
+				],
+				"effect": "Collect money from a single foe."
+			},
+			{
+				"name": "Tradewinds",
+				"sp": 7,
+				"type": [
+					"wind"
+				],
+				"effect": "Deal heavy wind damage to a single foe."
+			},
+			{
+				"name": "Rest",
+				"sp": 0,
+				"type": [
+					"heal"
+				],
+				"effect": "Restore one's own HP and SP, and cure ailments."
+			},
+			{
+				"name": "Trade Tempest",
+				"sp": 10,
+				"type": [
+					"wind"
+				],
+				"effect": "Deal wind damage to all foes."
+			},
+			{
+				"name": "Donate BP",
+				"sp": 3,
+				"type": [
+					"buff"
+				],
+				"effect": "Grant 1 BP to an ally."
+			},
+			{
+				"name": "Sidestep",
+				"sp": 10,
+				"type": [
+					"buff"
+				],
+				"effect": "Dodge a single physical attack with a 100% success rate."
+			},
+			{
+				"name": "Hired Help",
+				"sp": 0,
+				"type": [
+					"unique"
+				],
+				"effect": "Pay money to summon hired help to the battlefield."
+			},
+			{
+				"name": "Bifelgan's Bounty",
+				"sp": 30,
+				"type": [
+					"unique"
+				],
+				"effect": "Unleash a non-elemental attack on a single foe and receive money equivalent to the damage dealt."
+			}
+		],
+		"Scholar": [
+			{
+				"name": "Fireball",
+				"sp": 8,
+				"type": [
+					"fire"
+				],
+				"effect": "Deal fire damage to all foes."
+			},
+			{
+				"name": "Icewind",
+				"sp": 8,
+				"type": [
+					"ice"
+				],
+				"effect": "Deal ice damage to all foes."
+			},
+			{
+				"name": "Lightning Bolt",
+				"sp": 8,
+				"type": [
+					"lightning"
+				],
+				"effect": "Deal lightning damage to all foes."
+			},
+			{
+				"name": "Analyze",
+				"sp": 1,
+				"type": [
+					"unique"
+				],
+				"effect": "Reveal the HP and one weakness of a single foe."
+			},
+			{
+				"name": "Fire Storm",
+				"sp": 22,
+				"type": [
+					"fire"
+				],
+				"effect": "Deal fire damage to all foes twice."
+			},
+			{
+				"name": "Blizzard",
+				"sp": 22,
+				"type": [
+					"ice"
+				],
+				"effect": "Deal ice damage to all foes twice."
+			},
+			{
+				"name": "Lightning Blast",
+				"sp": 22,
+				"type": [
+					"lightning"
+				],
+				"effect": "Deal lightning damage to all foes twice."
+			},
+			{
+				"name": "Alephan's Enlightenment",
+				"sp": 30,
+				"type": [
+					"buff"
+				],
+				"effect": "[Divine Skill] For 3 turns, spells cast by a single chosen ally that usually target all foes will instead be focused on a single foe at increased intensity."
+			}
+		],
+		"Thief": [
+			{
+				"name": "Steal",
+				"sp": 2,
+				"type": [
+					"unique"
+				],
+				"effect": "Steal an item from a single foe."
+			},
+			{
+				"name": "Wildfire",
+				"sp": 7,
+				"type": [
+					"fire"
+				],
+				"effect": "Deal heavy fire damage to a single foe."
+			},
+			{
+				"name": "HP Thief",
+				"sp": 6,
+				"type": [
+					"dagger"
+				],
+				"effect": "Attack a single foe twice with a dagger, and steal HP equivalent to half of the damage dealt."
+			},
+			{
+				"name": "Shackle Foe",
+				"sp": 4,
+				"type": [
+					"debuff"
+				],
+				"effect": "Reduce a single foe's physical attack strength for 2 turns."
+			},
+			{
+				"name": "Armor Corrosive",
+				"sp": 4,
+				"type": [
+					"debuff"
+				],
+				"effect": "Reduce a single foe's physical defense for 2 turns."
+			},
+			{
+				"name": "Steal SP",
+				"sp": 6,
+				"type": [
+					"dagger"
+				],
+				"effect": "Attack a single foe twice with a dagger, and steal SP equivalent to 5% of the damage dealt."
+			},
+			{
+				"name": "Share SP",
+				"sp": 0,
+				"type": [
+					"unique"
+				],
+				"effect": "Bestow SP equivalent to 50% of one's current SP to a single ally."
+			},
+			{
+				"name": "Aeber's Reckoning",
+				"sp": 30,
+				"type": [
+					"dagger"
+				],
+				"effect": "[Divine Skill] Attack all foes with a dagger, dealing damage proportional to your speed."
+			}
+		],
+		"Warrior": [
+			{
+				"name": "Level Slash",
+				"sp": 9,
+				"type": [
+					"sword"
+				],
+				"effect": "Attack all foes with a sword."
+			},
+			{
+				"name": "Abide",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Increase the user's physical attack strength for 3 turns."
+			},
+			{
+				"name": "Spearhead",
+				"sp": 6,
+				"type": [
+					"polearm"
+				],
+				"effect": "Attack a single foe with a polearm, and act earlier on your next turn."
+			},
+			{
+				"name": "Incite",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Become more readily targeted by foes for 3 turns."
+			},
+			{
+				"name": "Cross Strike",
+				"sp": 4,
+				"type": [
+					"sword"
+				],
+				"effect": "Unlease a sword attack on a single foe."
+			},
+			{
+				"name": "Stout Wall",
+				"sp": 4,
+				"type": [
+					"buff"
+				],
+				"effect": "Increase the user's physical defense for 3 turns."
+			},
+			{
+				"name": "Thousand Spears",
+				"sp": 20,
+				"type": [
+					"polearm"
+				],
+				"effect": "Attack random foes with a polearm 5 to 10 times."
+			},
+			{
+				"name": "Brand's Thunder",
+				"sp": 30,
+				"type": [
+					"sword"
+				],
+				"effect": "[Divine Skill] Unlease a tremendously powerful sword attack on a single foe."
+			}
+		],
+		"Runelord": [
+			{
+				"name": "Fire Rune",
+				"sp": 15,
+				"type": [
+					"fire"
+				],
+				"effect": "Weapons the user attacks with will deal additional fire damage for 3 turns."
+			},
+			{
+				"name": "Ice Rune",
+				"sp": 15,
+				"type": [
+					"ice"
+				],
+				"effect": "Weapons the user attacks with will deal additional ice damage for 3 turns."
+			},
+			{
+				"name": "Thunder Rune",
+				"sp": 15,
+				"type": [
+					"lightning"
+				],
+				"effect": "Weapons the user attacks with will deal additional lightning damage for 3 turns."
+			},
+			{
+				"name": "Wind Rune",
+				"sp": 15,
+				"type": [
+					"wind"
+				],
+				"effect": "Weapons the user attacks with will deal additional wind damage for 3 turns."
+			},
+			{
+				"name": "Dark Rune",
+				"sp": 15,
+				"type": [
+					"dark"
+				],
+				"effect": "Weapons the user attacks with will deal additional dark damage for 3 turns."
+			},
+			{
+				"name": "Light Rune",
+				"sp": 15,
+				"type": [
+					"light"
+				],
+				"effect": "Weapons the user attacks with will deal additional light damage for 3 turns."
+			},
+			{
+				"name": "Transfer rune",
+				"sp": 25,
+				"type": [
+					"buff"
+				],
+				"effect": "For 3 turns, skills that usually target yourself alone will target your allies as well."
+			},
+			{
+				"name": "Balogar's Blade",
+				"sp": 50,
+				"type": [
+					"fire",
+					"ice",
+					"lightning",
+					"wind",
+					"light",
+					"dark"
+				],
+				"effect": "[Divine Skill] Deal damage from each of the six elements to a single foe."
+			}
+		],
+		"Sorcerer": [
+			{
+				"name": "Ignis Ardere",
+				"sp": 36,
+				"type": [
+					"fire"
+				],
+				"effect": "Deal fire damage to all foes 3 times."
+			},
+			{
+				"name": "Glacies Caludere",
+				"sp": 36,
+				"type": [
+					"ice"
+				],
+				"effect": "Deal ice damage to all foes 3 times."
+			},
+			{
+				"name": "Tonitrus Canere",
+				"sp": 36,
+				"type": [
+					"lightning"
+				],
+				"effect": "Deal lightning damage to all foes 3 times."
+			},
+			{
+				"name": "Ventus Saltare",
+				"sp": 36,
+				"type": [
+					"wind"
+				],
+				"effect": "Deal wind damage to all foes 3 times."
+			},
+			{
+				"name": "Lux Congerere",
+				"sp": 36,
+				"type": [
+					"light"
+				],
+				"effect": "Deal light damage to all foes 3 times."
+			},
+			{
+				"name": "Tenebrae Operiere",
+				"sp": 36,
+				"type": [
+					"dark"
+				],
+				"effect": "Deal dark damage to all foes 3 times."
+			},
+			{
+				"name": "Elemental Break",
+				"sp": 20,
+				"type": [
+					"staff"
+				],
+				"effect": "Unleash a powerful staff attack on a single foe that also reduces the target's elemental defense for 2 turns."
+			},
+			{
+				"name": "Dreisang's Spell",
+				"sp": 50,
+				"type": [
+					"buff"
+				],
+				"effect": "[Divine Skill] For 3 turns, elemental attacks performed by a single chosen ally will hit for critical damage."
+			}
+		],
+		"Starseer": [
+			{
+				"name": "Shotting Stars",
+				"sp": 35,
+				"type": [
+					"wind",
+					"light",
+					"dark"
+				],
+				"effect": "Deal wind, light, and dark damage to all foes."
+			},
+			{
+				"name": "BP Boost",
+				"sp": 25,
+				"type": [
+					"buff"
+				],
+				"effect": "Allow a single ally to gain 2 BP per turn for 2 turns."
+			},
+			{
+				"name": "Divination",
+				"sp": 25,
+				"type": [
+					"buff"
+				],
+				"effect": "Increase a single ally's critical hit rate for 2 turns."
+			},
+			{
+				"name": "Starsong",
+				"sp": 25,
+				"type": [
+					"buff"
+				],
+				"effect": "Augments a single ally's physical defense, elemental defense, speed, and evasion for 2 turns."
+			},
+			{
+				"name": "Celestial Intervention",
+				"sp": 25,
+				"type": [
+					"buff",
+					"debuff"
+				],
+				"effect": "For 2 turns, render a single enemy unable to receive attribute augmentations, or a single ally immune to attribute penalties."
+			},
+			{
+				"name": "Ethereal Healing",
+				"sp": 30,
+				"type": [
+					"heal"
+				],
+				"effect": "Grant HP regeneration to all allies for 2 turns."
+			},
+			{
+				"name": "Moon's Reflection",
+				"sp": 30,
+				"type": [
+					"buff"
+				],
+				"effect": "Grant a single ally the ability to counter physical damage one time."
+			},
+			{
+				"name": "Steorra's Prophecy",
+				"sp": 50,
+				"type": [
+					"unqiue"
+				],
+				"effect": "Unlease an elemental attack on all foes that deals damage proportional to the party's current BP."
+			}
+		],
+		"Warmaster": [
+			{
+				"name": "Guardian Liondog",
+				"sp": 35,
+				"type": [
+					"sword"
+				],
+				"effect": "Unleaes 5 to 10 sword attacks against random foes."
+			},
+			{
+				"name": "Tiger Rage",
+				"sp": 35,
+				"type": [
+					"axe"
+				],
+				"effect": "Unleash an axe attack on all foes."
+			},
+			{
+				"name": "Qilin's Horn",
+				"sp": 35,
+				"type": [
+					"polearm"
+				],
+				"effect": "Unlease a polearm attack on a single foe."
+			},
+			{
+				"name": "Yatagarasu",
+				"sp": 35,
+				"type": [
+					"dagger"
+				],
+				"effect": "Unleash a dagger attack on all foes."
+			},
+			{
+				"name": "Fox Spirit",
+				"sp": 35,
+				"type": [
+					"staff"
+				],
+				"effect": "Unleash a staff attack on all foes."
+			},
+			{
+				"name": "Phoenix Storm",
+				"sp": 35,
+				"type": [
+					"bow"
+				],
+				"effect": "Unlease a bow attack on a single foe."
+			},
+			{
+				"name": "Nightmare Chimera",
+				"sp": 35,
+				"type": [
+					"unique"
+				],
+				"effect": "Unleash an attack on a single foe using a weapon of your choice. The weapon will be destroyed."
+			},
+			{
+				"name": "Winnehild's Battle Cry",
+				"sp": 50,
+				"type": [
+					"sword",
+					"polearm",
+					"dagger",
+					"axe",
+					"bow",
+					"staff"
+				],
+				"effect": "[Divine Skill] Wield six weapons to unleash six attacks on all foes."
+			}
+		]
+	}
+}

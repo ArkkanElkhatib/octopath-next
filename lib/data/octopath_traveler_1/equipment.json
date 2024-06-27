@@ -1,0 +1,3283 @@
+{
+	"weapons": {
+		"swords": [
+			{
+				"id": 1,
+				"name": "Makeshift Sword",
+				"stats": {},
+				"effect": "Automatically equipped when no other sword is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Blade",
+				"stats": {
+					"patk": 400,
+					"critical": 150
+				},
+				"effect": "Attack: Augments physical abilities"
+			},
+			{
+				"id": 3,
+				"name": "Harald's Sword",
+				"stats": {
+					"patk": 380,
+					"eatk": 120
+				},
+				"effect": "Equip: Increases fire damage dealt"
+			},
+			{
+				"id": 4,
+				"name": "Enchanted Sword",
+				"stats": {
+					"patk": 240,
+					"eatk": 220,
+					"critical": 40
+				},
+				"effect": ""
+			},
+			{
+				"id": 5,
+				"name": "Forbidden Blade",
+				"stats": {
+					"patk": 310,
+					"speed": 120
+				},
+				"effect": "Attack: Occasionally increases target's Phys. Atk."
+			},
+			{
+				"id": 6,
+				"name": "Werner's Sword",
+				"stats": {
+					"patk": 299,
+					"eatk": 120
+				},
+				"effect": "Attack: All successful attacks become critical hits"
+			},
+			{
+				"id": 7,
+				"name": "Dragon Saber",
+				"stats": {
+					"patk": 273,
+					"critical": 120
+				},
+				"effect": ""
+			},
+			{
+				"id": 8,
+				"name": "Emperoer's Blade",
+				"stats": {
+					"patk": 251,
+					"accuracy": 100
+				},
+				"effect": ""
+			},
+			{
+				"id": 9,
+				"name": "Unseen Saber",
+				"stats": {
+					"patk": 235,
+					"evasion": 100
+				},
+				"effect": "Attack: Occasionally confuses target"
+			},
+			{
+				"id": 10,
+				"name": "Deathly Blade",
+				"stats": {
+					"patk": 219,
+					"accuracy": 98
+				},
+				"effect": "Attack: Occasionally kills target instantly"
+			},
+			{
+				"id": 11,
+				"name": "Trinity Sword",
+				"stats": {
+					"patk": 222,
+					"speed": 100
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Great Blade",
+				"stats": {
+					"patk": 212,
+					"critical": 80
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Blade of Bravery",
+				"stats": {
+					"patk": 198,
+					"critical": 90
+				},
+				"effect": ""
+			},
+			{
+				"id": 14,
+				"name": "Angel Saber",
+				"stats": {
+					"patk": 185,
+					"accuracy": 80
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 15,
+				"name": "Platinum Sword",
+				"stats": {
+					"patk": 166,
+					"speed": 92
+				},
+				"effect": ""
+			},
+			{
+				"id": 16,
+				"name": "Divine Blade",
+				"stats": {
+					"patk": 152,
+					"critical": 84
+				},
+				"effect": ""
+			},
+			{
+				"id": 17,
+				"name": "Carnage Blade",
+				"stats": {
+					"patk": 200
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Atk."
+			},
+			{
+				"id": 18,
+				"name": "Knight's Sword",
+				"stats": {
+					"patk": 140,
+					"speed": 88
+				},
+				"effect": ""
+			},
+			{
+				"id": 19,
+				"name": "Refined Sword",
+				"stats": {
+					"patk": 132,
+					"speed": 80
+				},
+				"effect": ""
+			},
+			{
+				"id": 20,
+				"name": "Snipe Saber",
+				"stats": {
+					"patk": 120,
+					"accuracy": 78
+				},
+				"effect": ""
+			},
+			{
+				"id": 21,
+				"name": "Moonblade",
+				"stats": {
+					"patk": 115,
+					"critical": 70
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Mirage Blade",
+				"stats": {
+					"patk": 108,
+					"critical": 50
+				},
+				"effect": ""
+			},
+			{
+				"id": 23,
+				"name": "Eagle Saber",
+				"stats": {
+					"patk": 102,
+					"accuracy": 70
+				},
+				"effect": ""
+			},
+			{
+				"id": 24,
+				"name": "Bastard Sword",
+				"stats": {
+					"patk": 92,
+					"speed": 60
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Heavy Blade",
+				"stats": {
+					"patk": 85,
+					"critical": 30
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Falcon Saber",
+				"stats": {
+					"patk": 80,
+					"accuracy": 60
+				},
+				"effect": ""
+			},
+			{
+				"id": 27,
+				"name": "Spirit Sword",
+				"stats": {
+					"patk": 60,
+					"eatk": 60
+				},
+				"effect": ""
+			},
+			{
+				"id": 28,
+				"name": "Captain's Sword",
+				"stats": {
+					"patk": 60,
+					"speed": 40
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Def."
+			},
+			{
+				"id": 29,
+				"name": "Greatsword",
+				"stats": {
+					"patk": 65,
+					"speed": 4
+				},
+				"effect": ""
+			},
+			{
+				"id": 30,
+				"name": "Silver Sword",
+				"stats": {
+					"patk": 52,
+					"speed": 30
+				},
+				"effect": ""
+			},
+			{
+				"id": 31,
+				"name": "Feather Saber",
+				"stats": {
+					"patk": 34,
+					"accuracy": 40
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 32,
+				"name": "Broadsword",
+				"stats": {
+					"patk": 28,
+					"speed": 22
+				},
+				"effect": ""
+			},
+			{
+				"id": 33,
+				"name": "Iron Sword",
+				"stats": {
+					"patk": 22,
+					"speed": 18
+				},
+				"effect": ""
+			},
+			{
+				"id": 34,
+				"name": "Long Sword",
+				"stats": {
+					"patk": 8,
+					"speed": 2
+				},
+				"effect": ""
+			}
+		],
+		"polearms": [
+			{
+				"id": 1,
+				"name": "Makeshift Spear",
+				"stats": {},
+				"effect": "Automatically equipped when no other polearm is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Spear",
+				"stats": {
+					"patk": 390,
+					"critical": 148
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 3,
+				"name": "Tradewinds Spear",
+				"stats": {
+					"patk": 150,
+					"eatk": 380
+				},
+				"effect": "Equip: Increases wind damage dealt"
+			},
+			{
+				"id": 4,
+				"name": "Master's Spear",
+				"stats": {
+					"patk": 355,
+					"critical": 151
+				},
+				"effect": ""
+			},
+			{
+				"id": 5,
+				"name": "Rune Glaive",
+				"stats": {
+					"patk": 120,
+					"eatk": 363,
+					"evasion": 48
+				},
+				"effect": ""
+			},
+			{
+				"id": 6,
+				"name": "Forbidden Spear",
+				"stats": {
+					"patk": 320,
+					"eatk": 303,
+					"speed": -98
+				},
+				"effect": ""
+			},
+			{
+				"id": 7,
+				"name": "Seraphim Spear",
+				"stats": {
+					"patk": 275,
+					"speed": 126
+				},
+				"effect": "Attack: Occasionally confuses target"
+			},
+			{
+				"id": 8,
+				"name": "Scourge Lance",
+				"stats": {
+					"patk": 262,
+					"critical": 122
+				},
+				"effect": ""
+			},
+			{
+				"id": 9,
+				"name": "Soul Glaive",
+				"stats": {
+					"patk": 121,
+					"eatk": 252
+				},
+				"effect": ""
+			},
+			{
+				"id": 10,
+				"name": "Jade Lance",
+				"stats": {
+					"patk": 228,
+					"critical": 115
+				},
+				"effect": ""
+			},
+			{
+				"id": 11,
+				"name": "Victor's Spear",
+				"stats": {
+					"patk": 212,
+					"speed": 99
+				},
+				"effect": ""
+			},
+			{
+				"id": 12,
+				"name": "Platinum Spear",
+				"stats": {
+					"patk": 196,
+					"speed": 92
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Miguel's Spear",
+				"stats": {
+					"patk": 200,
+					"accuracy": 88
+				},
+				"effect": "Attack: Occasionally reduces target's evasion"
+			},
+			{
+				"id": 14,
+				"name": "Imperial Lance",
+				"stats": {
+					"patk": 180,
+					"critical": 88
+				},
+				"effect": ""
+			},
+			{
+				"id": 15,
+				"name": "Magus Glaive",
+				"stats": {
+					"patk": 96,
+					"eatk": 162
+				},
+				"effect": ""
+			},
+			{
+				"id": 16,
+				"name": "Hedgehog Spear",
+				"stats": {
+					"patk": 142,
+					"speed": 84
+				},
+				"effect": ""
+			},
+			{
+				"id": 17,
+				"name": "Bridge Lance",
+				"stats": {
+					"patk": 128,
+					"critical": 71
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 18,
+				"name": "Elemental Glaive",
+				"stats": {
+					"patk": 104,
+					"eatk": 173
+				},
+				"effect": ""
+			},
+			{
+				"id": 19,
+				"name": "Jaguar Lance",
+				"stats": {
+					"patk": 112,
+					"critical": 66
+				},
+				"effect": ""
+			},
+			{
+				"id": 20,
+				"name": "Heavy Lance",
+				"stats": {
+					"patk": 96,
+					"critical": 53
+				},
+				"effect": ""
+			},
+			{
+				"id": 21,
+				"name": "Calamity Spear",
+				"stats": {
+					"patk": 111,
+					"accuracy": -30
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Bandit's Spear",
+				"stats": {
+					"patk": 81,
+					"speed": 31
+				},
+				"effect": ""
+			},
+			{
+				"id": 23,
+				"name": "Sunlands Spear",
+				"stats": {
+					"patk": 72,
+					"speed": 6
+				},
+				"effect": "Attack: Occasionally reduces target's evasion"
+			},
+			{
+				"id": 24,
+				"name": "War Lance",
+				"stats": {
+					"patk": 71,
+					"critical": 41
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Silver Spear",
+				"stats": {
+					"patk": 56,
+					"speed": 24
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Arcane Glaive",
+				"stats": {
+					"patk": 36,
+					"eatk": 38
+				},
+				"effect": ""
+			},
+			{
+				"id": 27,
+				"name": "War Spear",
+				"stats": {
+					"patk": 34,
+					"speed": 10
+				},
+				"effect": ""
+			},
+			{
+				"id": 28,
+				"name": "Memorial Harpoon",
+				"stats": {
+					"patk": 38
+				},
+				"effect": "Attack: Occasionally slows target"
+			},
+			{
+				"id": 29,
+				"name": "Iron Spear",
+				"stats": {
+					"patk": 23,
+					"speed": 6
+				},
+				"effect": ""
+			},
+			{
+				"id": 30,
+				"name": "Spear",
+				"stats": {
+					"patk": 8,
+					"speed": 2
+				},
+				"effect": ""
+			}
+		],
+		"daggers": [
+			{
+				"id": 1,
+				"name": "Makeshift Dagger",
+				"stats": {},
+				"effect": "Automatically equipped when no other dagger is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Dagger",
+				"stats": {
+					"patk": 380,
+					"evasion": 140
+				},
+				"effect": "Attack: Occasionally decreases target's accuracy"
+			},
+			{
+				"id": 3,
+				"name": "Heathcote's Dagger",
+				"stats": {
+					"patk": 199,
+					"eatk": 346
+				},
+				"effect": "Equip: Increases fire damage dealt"
+			},
+			{
+				"id": 4,
+				"name": "Viper Dagger",
+				"stats": {
+					"patk": 332,
+					"speed": 132
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 5,
+				"name": "Adamantine Dagger",
+				"stats": {
+					"patk": 167,
+					"eatk": 299
+				},
+				"effect": "Equip: Increases dark damage dealt"
+			},
+			{
+				"id": 6,
+				"name": "Forbidden Dagger",
+				"stats": {
+					"patk": 285,
+					"eatk": 155
+				},
+				"effect": "Equip: Reduces fire and dark damage dealt"
+			},
+			{
+				"id": 7,
+				"name": "Legion Dagger",
+				"stats": {
+					"patk": 263,
+					"evasion": 129
+				},
+				"effect": ""
+			},
+			{
+				"id": 8,
+				"name": "Rune Knife",
+				"stats": {
+					"patk": 128,
+					"eatk": 242
+				},
+				"effect": ""
+			},
+			{
+				"id": 9,
+				"name": "Ultimate Breaker",
+				"stats": {
+					"patk": 242,
+					"speed": 128
+				},
+				"effect": "Attack: Occasionally confuses target"
+			},
+			{
+				"id": 10,
+				"name": "Doombreaker",
+				"stats": {
+					"patk": 202,
+					"critical": 123
+				},
+				"effect": ""
+			},
+			{
+				"id": 11,
+				"name": "Assassin's Dagger",
+				"stats": {
+					"patk": 196,
+					"evasion": 119
+				},
+				"effect": ""
+			},
+			{
+				"id": 12,
+				"name": "Soul Knife",
+				"stats": {
+					"patk": 98,
+					"eatk": 188
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Crimson Dagger",
+				"stats": {
+					"patk": 172,
+					"evasion": 101
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Atk."
+			},
+			{
+				"id": 14,
+				"name": "Justice Breaker",
+				"stats": {
+					"patk": 166,
+					"speed": 98
+				},
+				"effect": ""
+			},
+			{
+				"id": 15,
+				"name": "Skybreaker",
+				"stats": {
+					"patk": 162,
+					"critical": 73
+				},
+				"effect": ""
+			},
+			{
+				"id": 16,
+				"name": "Magus Knife",
+				"stats": {
+					"patk": 75,
+					"eatk": 144
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 17,
+				"name": "Gaolbreaker",
+				"stats": {
+					"patk": 132,
+					"critical": 65
+				},
+				"effect": ""
+			},
+			{
+				"id": 18,
+				"name": "Gideon's Dagger",
+				"stats": {
+					"patk": 118,
+					"speed": 61
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Atk."
+			},
+			{
+				"id": 19,
+				"name": "Trickster's Dagger",
+				"stats": {
+					"patk": 98,
+					"evasion": 68
+				},
+				"effect": ""
+			},
+			{
+				"id": 20,
+				"name": "Crescent Dagger",
+				"stats": {
+					"patk": 88,
+					"evasion": 57
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 21,
+				"name": "Chainbreaker",
+				"stats": {
+					"patk": 82,
+					"speed": 58
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Swordbreaker",
+				"stats": {
+					"patk": 76,
+					"critical": 46
+				},
+				"effect": ""
+			},
+			{
+				"id": 23,
+				"name": "Silver Dagger",
+				"stats": {
+					"patk": 69,
+					"evasion": 42
+				},
+				"effect": ""
+			},
+			{
+				"id": 24,
+				"name": "Piercing Dagger",
+				"stats": {
+					"patk": 59,
+					"evasion": 27
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Falcon Dagger",
+				"stats": {
+					"patk": 52,
+					"evasion": 22
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Befuddling Daggerj",
+				"stats": {
+					"patk": 48,
+					"speed": 20
+				},
+				"effect": "Attack: Occasionally decreases target's accuracy"
+			},
+			{
+				"id": 27,
+				"name": "Arcane Knife",
+				"stats": {
+					"patk": 32,
+					"eatk": 42
+				},
+				"effect": ""
+			},
+			{
+				"id": 28,
+				"name": "Stinging Dagger",
+				"stats": {
+					"patk": 26,
+					"evasion": 18
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 29,
+				"name": "Iron Dagger",
+				"stats": {
+					"patk": 20,
+					"evasion": 16
+				},
+				"effect": ""
+			},
+			{
+				"id": 30,
+				"name": "Dagger",
+				"stats": {
+					"patk": 7,
+					"evasion": 6
+				},
+				"effect": ""
+			}
+		],
+		"axes": [
+			{
+				"id": 1,
+				"name": "Makeshift Axe",
+				"stats": {},
+				"effect": "Automatically equipped when no other axe is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Axe",
+				"stats": {
+					"patk": 350,
+					"eatk": 250
+				},
+				"effect": "Equip: Increases lightning and ice damage dealt"
+			},
+			{
+				"id": 3,
+				"name": "Memorial Axe",
+				"stats": {
+					"patk": 400,
+					"speed": 150
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Def."
+			},
+			{
+				"id": 4,
+				"name": "Death Cleaver",
+				"stats": {
+					"patk": 380,
+					"critical": 140
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 5,
+				"name": "Double Tomahawk",
+				"stats": {
+					"patk": 95,
+					"accuracy": 198
+				},
+				"effect": "Attack: Regular attacks strike twice"
+			},
+			{
+				"id": 6,
+				"name": "Forbidden Axe",
+				"stats": {
+					"patk": 391,
+					"accuracy": -50,
+					"speed": 80
+				},
+				"effect": ""
+			},
+			{
+				"id": 7,
+				"name": "Ogre Cleaver",
+				"stats": {
+					"patk": 286,
+					"critical": 110
+				},
+				"effect": ""
+			},
+			{
+				"id": 8,
+				"name": "Rune Hatchet",
+				"stats": {
+					"patk": 100,
+					"eatk": 278
+				},
+				"effect": ""
+			},
+			{
+				"id": 9,
+				"name": "Golden Axe",
+				"stats": {
+					"patk": 265,
+					"critical": 100
+				},
+				"effect": ""
+			},
+			{
+				"id": 10,
+				"name": "Gargantuan Axe",
+				"stats": {
+					"patk": 248,
+					"accuracy": 98
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Def."
+			},
+			{
+				"id": 11,
+				"name": "Adamantine Hatchet",
+				"stats": {
+					"patk": 112,
+					"eatk": 230
+				},
+				"effect": ""
+			},
+			{
+				"id": 12,
+				"name": "Hill Cleaver",
+				"stats": {
+					"patk": 221,
+					"critical": 86
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Spirit Hatchet",
+				"stats": {
+					"patk": 102,
+					"eatk": 211
+				},
+				"effect": ""
+			},
+			{
+				"id": 14,
+				"name": "Elemental Hatchet",
+				"stats": {
+					"patk": 98,
+					"eatk": 206
+				},
+				"effect": ""
+			},
+			{
+				"id": 15,
+				"name": "Inferno Axe",
+				"stats": {
+					"patk": 199,
+					"accuracy": 82
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Def."
+			},
+			{
+				"id": 16,
+				"name": "Lizardking's Axe",
+				"stats": {
+					"patk": 192,
+					"eatk": 88
+				},
+				"effect": "Equip: Increases lightning damage dealt"
+			},
+			{
+				"id": 17,
+				"name": "Graviton Axe",
+				"stats": {
+					"patk": 186,
+					"accuracy": 74
+				},
+				"effect": ""
+			},
+			{
+				"id": 18,
+				"name": "Bear Cleaver",
+				"stats": {
+					"patk": 181,
+					"critical": 72
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Atk."
+			},
+			{
+				"id": 19,
+				"name": "Rock Cleaver",
+				"stats": {
+					"patk": 156,
+					"critical": 64
+				},
+				"effect": ""
+			},
+			{
+				"id": 20,
+				"name": "Soul Hatchet",
+				"stats": {
+					"patk": 78,
+					"eatk": 147
+				},
+				"effect": ""
+			},
+			{
+				"id": 21,
+				"name": "Horn Cleaver",
+				"stats": {
+					"patk": 134,
+					"critical": 52
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Argent Axe",
+				"stats": {
+					"patk": 122,
+					"critical": 48
+				},
+				"effect": ""
+			},
+			{
+				"id": 23,
+				"name": "Magus Hatchet",
+				"stats": {
+					"patk": 62,
+					"eatk": 120
+				},
+				"effect": ""
+			},
+			{
+				"id": 24,
+				"name": "Viking Axe",
+				"stats": {
+					"patk": 113,
+					"accuracy": 38
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Omar's Axe",
+				"stats": {
+					"patk": 102,
+					"accuracy": 44
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Steel Axe",
+				"stats": {
+					"patk": 96,
+					"eatk": -20
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Atk."
+			},
+			{
+				"id": 27,
+				"name": "Cleaver",
+				"stats": {
+					"patk": 70,
+					"critical": 14
+				},
+				"effect": ""
+			},
+			{
+				"id": 28,
+				"name": "Enchanted Axe",
+				"stats": {
+					"patk": 40,
+					"eatk": 98
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 29,
+				"name": "Heavy Axe",
+				"stats": {
+					"patk": 76,
+					"accuracy": 24
+				},
+				"effect": ""
+			},
+			{
+				"id": 30,
+				"name": "Silver Axe",
+				"stats": {
+					"patk": 43,
+					"accuracy": 12
+				},
+				"effect": ""
+			},
+			{
+				"id": 31,
+				"name": "Battle Axe",
+				"stats": {
+					"patk": 40,
+					"accuracy": 6
+				},
+				"effect": ""
+			},
+			{
+				"id": 32,
+				"name": "Arcane Hatchet",
+				"stats": {
+					"patk": 36,
+					"eatk": 36
+				},
+				"effect": ""
+			},
+			{
+				"id": 33,
+				"name": "Iron Axe",
+				"stats": {
+					"patk": 24,
+					"accuracy": 12
+				},
+				"effect": ""
+			},
+			{
+				"id": 34,
+				"name": "Handaxe",
+				"stats": {
+					"patk": 8,
+					"accuracy": 4
+				},
+				"effect": ""
+			}
+		],
+		"bows": [
+			{
+				"id": 1,
+				"name": "Makeshift Bow",
+				"stats": {},
+				"effect": "Automatically equipped when no other bow is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Bow",
+				"stats": {
+					"patk": 384,
+					"critical": 186
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Def."
+			},
+			{
+				"id": 3,
+				"name": "Primeval Bow of Storms",
+				"stats": {
+					"patk": 241,
+					"eatk": 342
+				},
+				"effect": "Equip: Increases wind damage dealt"
+			},
+			{
+				"id": 4,
+				"name": "Transcendent Bow of Shadows",
+				"stats": {
+					"patk": 306,
+					"eatk": 245
+				},
+				"effect": "Attack: Occasionally confuses target"
+			},
+			{
+				"id": 5,
+				"name": "Improved Bow of the Eagle",
+				"stats": {
+					"patk": 276,
+					"eatk": 204,
+					"critical": 70
+				},
+				"effect": ""
+			},
+			{
+				"id": 6,
+				"name": "Forbidden Bow",
+				"stats": {
+					"patk": 282,
+					"critical": 121
+				},
+				"effect": "Equip: Increases the chance of encountering enemies"
+			},
+			{
+				"id": 7,
+				"name": "Hyperion Bow",
+				"stats": {
+					"patk": 219,
+					"eatk": 261,
+					"accuracy": 115
+				},
+				"effect": ""
+			},
+			{
+				"id": 8,
+				"name": "Holy Longbow",
+				"stats": {
+					"patk": 246,
+					"critical": 103
+				},
+				"effect": ""
+			},
+			{
+				"id": 9,
+				"name": "Rune Bow",
+				"stats": {
+					"patk": 198,
+					"eatk": 202,
+					"accuracy": 96
+				},
+				"effect": ""
+			},
+			{
+				"id": 10,
+				"name": "Yeti's Longbow",
+				"stats": {
+					"patk": 229,
+					"critical": 95
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 11,
+				"name": "Adamantine Bow",
+				"stats": {
+					"patk": 178,
+					"eatk": 209
+				},
+				"effect": ""
+			},
+			{
+				"id": 12,
+				"name": "Augmented Bow of the Falcon",
+				"stats": {
+					"patk": 182,
+					"eatk": 182,
+					"critical": 62
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Master's Longbow",
+				"stats": {
+					"patk": 192,
+					"critical": 85
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 14,
+				"name": "Brilliant Bow",
+				"stats": {
+					"patk": 152,
+					"eatk": 176,
+					"accuracy": 88
+				},
+				"effect": ""
+			},
+			{
+				"id": 15,
+				"name": "Pirate's Longbow",
+				"stats": {
+					"patk": 181,
+					"critical": 77
+				},
+				"effect": ""
+			},
+			{
+				"id": 16,
+				"name": "Spirit Bow",
+				"stats": {
+					"patk": 101,
+					"eatk": 142
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 17,
+				"name": "Huntress's Longbow",
+				"stats": {
+					"patk": 128,
+					"critical": 43
+				},
+				"effect": ""
+			},
+			{
+				"id": 18,
+				"name": "Elemental Bow",
+				"stats": {
+					"patk": 108,
+					"eatk": 98,
+					"accuracy": 74
+				},
+				"effect": ""
+			},
+			{
+				"id": 19,
+				"name": "Shadow Bow",
+				"stats": {
+					"patk": 103,
+					"accuracy": 82
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 20,
+				"name": "Tomahawk Bow",
+				"stats": {
+					"patk": 96,
+					"eatk": 84,
+					"accuracy": 61
+				},
+				"effect": ""
+			},
+			{
+				"id": 21,
+				"name": "Marksman's Longbow",
+				"stats": {
+					"patk": 105,
+					"critical": 22
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Soul Bow",
+				"stats": {
+					"patk": 82,
+					"eatk": 72,
+					"accuracy": 52
+				},
+				"effect": ""
+			},
+			{
+				"id": 23,
+				"name": "Soldier's Longbow",
+				"stats": {
+					"patk": 98,
+					"critical": 14
+				},
+				"effect": "Attack: Occasionally decreases target's Phys. Def."
+			},
+			{
+				"id": 24,
+				"name": "Heavy Bow",
+				"stats": {
+					"patk": 69,
+					"eatk": 66,
+					"accuracy": 44
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Magus's Bow",
+				"stats": {
+					"patk": 58,
+					"eatk": 62
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Killer Bow",
+				"stats": {
+					"patk": 60,
+					"eatk": 30,
+					"accuracy": 30
+				},
+				"effect": ""
+			},
+			{
+				"id": 27,
+				"name": "Arcane Bow",
+				"stats": {
+					"patk": 38,
+					"eatk": 52
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Atk."
+			},
+			{
+				"id": 28,
+				"name": "Wolf's Bow",
+				"stats": {
+					"patk": 42,
+					"eatk": 34,
+					"accuracy": 22
+				},
+				"effect": ""
+			},
+			{
+				"id": 29,
+				"name": "Stone Bow",
+				"stats": {
+					"patk": 29,
+					"accuracy": 33
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 30,
+				"name": "Composite Bow",
+				"stats": {
+					"patk": 18,
+					"eatk": 16,
+					"accuracy": 20
+				},
+				"effect": ""
+			},
+			{
+				"id": 31,
+				"name": "Longbow",
+				"stats": {
+					"patk": 8,
+					"eatk": 1,
+					"accuracy": 2
+				},
+				"effect": ""
+			}
+		],
+		"staves": [
+			{
+				"id": 1,
+				"name": "Makeshift Staff",
+				"stats": {},
+				"effect": "Automatically equipped when no other staff is equipped"
+			},
+			{
+				"id": 2,
+				"name": "Battle-tested Staff",
+				"stats": {
+					"patk": 212,
+					"eatk": 399
+				},
+				"effect": "Attack: Occasionally slows target"
+			},
+			{
+				"id": 3,
+				"name": "Bishop's Staff",
+				"stats": {
+					"patk": 187,
+					"eatk": 352
+				},
+				"effect": "Equip: Increases light damage dealt"
+			},
+			{
+				"id": 4,
+				"name": "Knowledge Staff",
+				"stats": {
+					"patk": 111,
+					"eatk": 333,
+					"speed": 99
+				},
+				"effect": ""
+			},
+			{
+				"id": 5,
+				"name": "Wizard's Rod",
+				"stats": {
+					"patk": 113,
+					"eatk": 300
+				},
+				"effect": "Attack: Occasionally poisons target"
+			},
+			{
+				"id": 6,
+				"name": "Absolute Zero Staff",
+				"stats": {
+					"patk": 132,
+					"eatk": 293
+				},
+				"effect": "Equip: Increases ice damage dealt"
+			},
+			{
+				"id": 7,
+				"name": "Yggdrasil Staff",
+				"stats": {
+					"patk": 121,
+					"eatk": 289
+				},
+				"effect": ""
+			},
+			{
+				"id": 8,
+				"name": "Mattias's Scepter",
+				"stats": {
+					"patk": 116,
+					"eatk": 268
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Atk."
+			},
+			{
+				"id": 9,
+				"name": "Forbidden Staff",
+				"stats": {
+					"patk": -100,
+					"eatk": 285,
+					"critical": -50
+				},
+				"effect": ""
+			},
+			{
+				"id": 10,
+				"name": "Enchanted Rod",
+				"stats": {
+					"patk": 91,
+					"eatk": 242
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Def."
+			},
+			{
+				"id": 11,
+				"name": "Giant's Club",
+				"stats": {
+					"patk": 229,
+					"eatk": 112,
+					"critical": 86
+				},
+				"effect": ""
+			},
+			{
+				"id": 12,
+				"name": "Meteorite Rod",
+				"stats": {
+					"patk": 98,
+					"eatk": 216,
+					"evasion": 77
+				},
+				"effect": ""
+			},
+			{
+				"id": 13,
+				"name": "Morning Star",
+				"stats": {
+					"patk": 196,
+					"eatk": 102,
+					"critical": 72
+				},
+				"effect": ""
+			},
+			{
+				"id": 14,
+				"name": "Wisdom Staff",
+				"stats": {
+					"patk": 98,
+					"eatk": 188
+				},
+				"effect": "Attack: Occasionally confuses target"
+			},
+			{
+				"id": 15,
+				"name": "Sturdy Sapphire Rod",
+				"stats": {
+					"patk": 89,
+					"eatk": 176,
+					"evasion": 62
+				},
+				"effect": ""
+			},
+			{
+				"id": 16,
+				"name": "Sledgehammer",
+				"stats": {
+					"patk": 171,
+					"eatk": 98,
+					"critical": 60
+				},
+				"effect": ""
+			},
+			{
+				"id": 17,
+				"name": "Sapphire Rod",
+				"stats": {
+					"patk": 82,
+					"eatk": 158,
+					"evasion": 49
+				},
+				"effect": ""
+			},
+			{
+				"id": 18,
+				"name": "War Hammer",
+				"stats": {
+					"patk": 152,
+					"eatk": 66,
+					"critical": 42
+				},
+				"effect": ""
+			},
+			{
+				"id": 19,
+				"name": "Black Staff",
+				"stats": {
+					"patk": 71,
+					"eatk": 112
+				},
+				"effect": "Attack: Occasionally blinds target"
+			},
+			{
+				"id": 20,
+				"name": "Mage's Staff",
+				"stats": {
+					"patk": 62,
+					"eatk": 98
+				},
+				"effect": ""
+			},
+			{
+				"id": 21,
+				"name": "Sturdy Quartz Rod",
+				"stats": {
+					"patk": 42,
+					"eatk": 89,
+					"evasion": 26
+				},
+				"effect": ""
+			},
+			{
+				"id": 22,
+				"name": "Staff of Wonders",
+				"stats": {
+					"patk": 56,
+					"eatk": 92
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Atk."
+			},
+			{
+				"id": 23,
+				"name": "Pole Mace",
+				"stats": {
+					"patk": 76,
+					"eatk": 51,
+					"critical": 23
+				},
+				"effect": ""
+			},
+			{
+				"id": 24,
+				"name": "Oak Staff",
+				"stats": {
+					"patk": 16,
+					"eatk": 68
+				},
+				"effect": ""
+			},
+			{
+				"id": 25,
+				"name": "Flail",
+				"stats": {
+					"patk": 68,
+					"eatk": 42,
+					"critical": 14
+				},
+				"effect": ""
+			},
+			{
+				"id": 26,
+				"name": "Psychic Staff",
+				"stats": {
+					"eatk": 78
+				},
+				"effect": "Attack: Occasionally decreases target's Elem. Def."
+			},
+			{
+				"id": 27,
+				"name": "Mace",
+				"stats": {
+					"patk": 62,
+					"eatk": 33,
+					"critical": 8
+				},
+				"effect": ""
+			},
+			{
+				"id": 28,
+				"name": "Laurel Staff",
+				"stats": {
+					"patk": 24,
+					"eatk": 52
+				},
+				"effect": ""
+			},
+			{
+				"id": 29,
+				"name": "Composite Staff",
+				"stats": {
+					"patk": 18,
+					"eatk": 44
+				},
+				"effect": "Attack: Occasionally puts target to sleep"
+			},
+			{
+				"id": 30,
+				"name": "Quartz Rod",
+				"stats": {
+					"patk": 12,
+					"eatk": 38,
+					"evasion": 10
+				},
+				"effect": ""
+			},
+			{
+				"id": 31,
+				"name": "Light Staff",
+				"stats": {
+					"patk": 8,
+					"eatk": 24
+				},
+				"effect": ""
+			},
+			{
+				"id": 32,
+				"name": "Stone Rod",
+				"stats": {
+					"patk": 4,
+					"eatk": 22,
+					"evasion": 16
+				},
+				"effect": ""
+			},
+			{
+				"id": 33,
+				"name": "Staff",
+				"stats": {
+					"patk": 1,
+					"eatk": 8,
+					"critical": 2
+				},
+				"effect": ""
+			}
+		]
+	},
+	"shields": [
+		{
+			"id": 1,
+			"name": "None",
+			"stats": {},
+			"effect": "No shield equipped"
+		},
+		{
+			"id": 2,
+			"name": "Battle-tested Shield",
+			"stats": {
+				"pdef": 132,
+				"evasion": -88
+			},
+			"effect": "Equip: Restores HP and SP after every action"
+		},
+		{
+			"id": 3,
+			"name": "Mikk and Makk's Shield",
+			"stats": {
+				"patk": 80,
+				"edef": 80,
+				"evasion": 178
+			},
+			"effect": ""
+		},
+		{
+			"id": 4,
+			"name": "Forbidden Shield",
+			"stats": {
+				"pdef": 116,
+				"edef": 133,
+				"evasion": -171
+			},
+			"effect": ""
+		},
+		{
+			"id": 5,
+			"name": "Force Shield",
+			"stats": {
+				"pdef": 102,
+				"edef": 102,
+				"evasion": -69
+			},
+			"effect": ""
+		},
+		{
+			"id": 6,
+			"name": "Gargantuan Shield",
+			"stats": {
+				"pdef": 121,
+				"evasion": -101
+			},
+			"effect": ""
+		},
+		{
+			"id": 7,
+			"name": "Leviathan Shield",
+			"stats": {
+				"pdef": 110,
+				"evasion": -79
+			},
+			"effect": "Equip: Reduces ice damage taken"
+		},
+		{
+			"id": 8,
+			"name": "Knight's Shield",
+			"stats": {
+				"pdef": 92,
+				"edef": 95,
+				"evasion": -95
+			},
+			"effect": ""
+		},
+		{
+			"id": 9,
+			"name": "Gustav's Shield",
+			"stats": {
+				"pdef": 52,
+				"edef": 58,
+				"evasion": 64
+			},
+			"effect": ""
+		},
+		{
+			"id": 10,
+			"name": "Adamantine Shield",
+			"stats": {
+				"pdef": 76,
+				"edef": 131,
+				"evasion": -81
+			},
+			"effect": ""
+		},
+		{
+			"id": 11,
+			"name": "Tower Shield",
+			"stats": {
+				"pdef": 68,
+				"evasion": -25
+			},
+			"effect": ""
+		},
+		{
+			"id": 12,
+			"name": "Spiked Shield",
+			"stats": {
+				"pdef": 44,
+				"edef": 53,
+				"evasion": -20
+			},
+			"effect": ""
+		},
+		{
+			"id": 13,
+			"name": "Elemental Shield",
+			"stats": {
+				"pdef": 36,
+				"edef": 74,
+				"evasion": -20
+			},
+			"effect": ""
+		},
+		{
+			"id": 14,
+			"name": "Elusive Shield",
+			"stats": {
+				"pdef": 21,
+				"edef": 24,
+				"evasion": 56
+			},
+			"effect": ""
+		},
+		{
+			"id": 15,
+			"name": "Plate Shield",
+			"stats": {
+				"pdef": 45,
+				"evasion": -4
+			},
+			"effect": ""
+		},
+		{
+			"id": 16,
+			"name": "Kite Shield",
+			"stats": {
+				"pdef": 26,
+				"edef": 31
+			},
+			"effect": ""
+		},
+		{
+			"id": 17,
+			"name": "Sturdy Shield",
+			"stats": {
+				"pdef": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 18,
+			"name": "Round Shield",
+			"stats": {
+				"pdef": 13,
+				"edef": 15
+			},
+			"effect": ""
+		},
+		{
+			"id": 19,
+			"name": "Buckler",
+			"stats": {
+				"pdef": 3,
+				"edef": 3
+			},
+			"effect": ""
+		}
+	],
+	"headgears": [
+		{
+			"id": 1,
+			"name": "None",
+			"stats": {},
+			"effect": "No headgear equipped"
+		},
+		{
+			"id": 2,
+			"name": "Crystal Helm",
+			"stats": {
+				"pdef": 180
+			},
+			"effect": ""
+		},
+		{
+			"id": 3,
+			"name": "Hypnos Crown",
+			"stats": {
+				"pdef": 98,
+				"edef": 162,
+				"sp": 72
+			},
+			"effect": ""
+		},
+		{
+			"id": 4,
+			"name": "Adamantine Hat",
+			"stats": {
+				"pdef": 104,
+				"edef": 180,
+				"eatk": 88
+			},
+			"effect": ""
+		},
+		{
+			"id": 5,
+			"name": "Dragon's Helm",
+			"stats": {
+				"pdef": 152
+			},
+			"effect": ""
+		},
+		{
+			"id": 6,
+			"name": "Monster Trainer's Hat",
+			"stats": {
+				"pdef": 115,
+				"edef": 115
+			},
+			"effect": "Equip: Slightly reduces wind damage taken"
+		},
+		{
+			"id": 7,
+			"name": "Teacher's Hat",
+			"stats": {
+				"pdef": 96,
+				"edef": 133
+			},
+			"effect": "Equip: Slightly reduces lightning damage taken"
+		},
+		{
+			"id": 8,
+			"name": "Adventure's Hat",
+			"stats": {
+				"pdef": 133
+			},
+			"effect": "Equip: Slightly reduces light damage"
+		},
+		{
+			"id": 9,
+			"name": "Platinum Helm",
+			"stats": {
+				"pdef": 137
+			},
+			"effect": ""
+		},
+		{
+			"id": 10,
+			"name": "Historian's Hat",
+			"stats": {
+				"pdef": 82,
+				"edef": 134
+			},
+			"effect": "Equip: Restores SP after every action"
+		},
+		{
+			"id": 11,
+			"name": "Oasis Hat",
+			"stats": {
+				"pdef": 103,
+				"edef": 112
+			},
+			"effect": ""
+		},
+		{
+			"id": 12,
+			"name": "Revello's Helm",
+			"stats": {
+				"pdef": 108,
+				"edef": 78
+			},
+			"effect": "Equip: Slightly reduces dark damage"
+		},
+		{
+			"id": 13,
+			"name": "Imperial Helm",
+			"stats": {
+				"pdef": 124
+			},
+			"effect": ""
+		},
+		{
+			"id": 14,
+			"name": "Silent Bandana",
+			"stats": {
+				"pdef": 82,
+				"edef": 78,
+				"evasion": 111
+			},
+			"effect": ""
+		},
+		{
+			"id": 15,
+			"name": "Fur Cap",
+			"stats": {
+				"pdef": 91,
+				"edef": 96
+			},
+			"effect": ""
+		},
+		{
+			"id": 16,
+			"name": "Enchanted Circlet",
+			"stats": {
+				"pdef": 79,
+				"edef": 104,
+				"sp": 53
+			},
+			"effect": ""
+		},
+		{
+			"id": 17,
+			"name": "Elemental Hat",
+			"stats": {
+				"pdef": 68,
+				"edef": 112,
+				"eatk": 61
+			},
+			"effect": ""
+		},
+		{
+			"id": 18,
+			"name": "Veteran's Helm",
+			"stats": {
+				"pdef": 82,
+				"edef": 58
+			},
+			"effect": "Equip: Restores HP after every action"
+		},
+		{
+			"id": 19,
+			"name": "Gareth's Helm",
+			"stats": {
+				"pdef": 78,
+				"edef": 73,
+				"critical": 53
+			},
+			"effect": ""
+		},
+		{
+			"id": 20,
+			"name": "Grand Helm",
+			"stats": {
+				"pdef": 89
+			},
+			"effect": ""
+		},
+		{
+			"id": 21,
+			"name": "Horned Helm",
+			"stats": {
+				"pdef": 71
+			},
+			"effect": ""
+		},
+		{
+			"id": 22,
+			"name": "Starlight Hat",
+			"stats": {
+				"pdef": 61,
+				"edef": 79
+			},
+			"effect": ""
+		},
+		{
+			"id": 23,
+			"name": "Hasty Helm",
+			"stats": {
+				"pdef": 50,
+				"edef": 58,
+				"speed": 78
+			},
+			"effect": ""
+		},
+		{
+			"id": 24,
+			"name": "Falcon Hat",
+			"stats": {
+				"pdef": 48,
+				"edef": 54,
+				"evasion": 79
+			},
+			"effect": ""
+		},
+		{
+			"id": 25,
+			"name": "Bishop's Hat",
+			"stats": {
+				"pdef": 54,
+				"edef": 96,
+				"eatk": 56
+			},
+			"effect": ""
+		},
+		{
+			"id": 26,
+			"name": "Golden Hairpiece",
+			"stats": {
+				"pdef": 52,
+				"edef": 88,
+				"sp": 36
+			},
+			"effect": ""
+		},
+		{
+			"id": 27,
+			"name": "Silver Helm",
+			"stats": {
+				"pdef": 55
+			},
+			"effect": ""
+		},
+		{
+			"id": 28,
+			"name": "Snowy Hood",
+			"stats": {
+				"pdef": 38,
+				"edef": 42,
+				"evasion": 47
+			},
+			"effect": ""
+		},
+		{
+			"id": 29,
+			"name": "Saintly Tiara",
+			"stats": {
+				"pdef": 36,
+				"edef": 48,
+				"sp": 21
+			},
+			"effect": ""
+		},
+		{
+			"id": 30,
+			"name": "Chakra Band",
+			"stats": {
+				"pdef": 40,
+				"edef": 52,
+				"eatk": 38
+			},
+			"effect": ""
+		},
+		{
+			"id": 31,
+			"name": "Sturdy Helm",
+			"stats": {
+				"pdef": 35
+			},
+			"effect": ""
+		},
+		{
+			"id": 32,
+			"name": "Flying Helm",
+			"stats": {
+				"pdef": 26,
+				"edef": 30,
+				"critical": 21
+			},
+			"effect": ""
+		},
+		{
+			"id": 33,
+			"name": "Black Cap",
+			"stats": {
+				"pdef": 15,
+				"edef": 20,
+				"evasion": 31
+			},
+			"effect": ""
+		},
+		{
+			"id": 34,
+			"name": "Headgear",
+			"stats": {
+				"pdef": 25,
+				"edef": 28
+			},
+			"effect": ""
+		},
+		{
+			"id": 35,
+			"name": "Circlet",
+			"stats": {
+				"pdef": 15,
+				"edef": 25,
+				"sp": 15
+			},
+			"effect": ""
+		},
+		{
+			"id": 36,
+			"name": "Iron Helm",
+			"stats": {
+				"pdef": 29
+			},
+			"effect": ""
+		},
+		{
+			"id": 37,
+			"name": "Silver Hairpiece",
+			"stats": {
+				"pdef": 10,
+				"edef": 18,
+				"sp": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 38,
+			"name": "Bronze Helm",
+			"stats": {
+				"pdef": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 39,
+			"name": "Feathered Hat",
+			"stats": {
+				"pdef": 15,
+				"edef": 15
+			},
+			"effect": ""
+		},
+		{
+			"id": 40,
+			"name": "Pointed Hat",
+			"stats": {
+				"pdef": 9,
+				"edef": 21,
+				"eatk": 8
+			},
+			"effect": ""
+		},
+		{
+			"id": 41,
+			"name": "Leather Helm",
+			"stats": {
+				"pdef": 4
+			},
+			"effect": ""
+		},
+		{
+			"id": 42,
+			"name": "Leather Hat",
+			"stats": {
+				"pdef": 3,
+				"edef": 3
+			},
+			"effect": ""
+		},
+		{
+			"id": 43,
+			"name": "Ordinary Hat",
+			"stats": {
+				"pdef": 2,
+				"edef": 5,
+				"eatk": 3
+			},
+			"effect": ""
+		}
+	],
+	"body_armors": [
+		{
+			"id": 1,
+			"name": "None",
+			"stats": {},
+			"effect": "No body armor equipped"
+		},
+		{
+			"id": 2,
+			"name": "Crystal Armor",
+			"stats": {
+				"pdef": 300
+			},
+			"effect": ""
+		},
+		{
+			"id": 3,
+			"name": "Crystal Vest",
+			"stats": {
+				"pdef": 205,
+				"edef": 205
+			},
+			"effect": ""
+		},
+		{
+			"id": 4,
+			"name": "Robe of the Flame",
+			"stats": {
+				"pdef": 126,
+				"edef": 317,
+				"sp": 56
+			},
+			"effect": ""
+		},
+		{
+			"id": 5,
+			"name": "Dragonscale Armor",
+			"stats": {
+				"pdef": 235,
+				"critical": 108
+			},
+			"effect": ""
+		},
+		{
+			"id": 6,
+			"name": "Dragon's Vest",
+			"stats": {
+				"pdef": 183,
+				"edef": 185
+			},
+			"effect": ""
+		},
+		{
+			"id": 7,
+			"name": "Ethereal Dancer Garb",
+			"stats": {
+				"pdef": 122,
+				"edef": 134,
+				"evasion": 166
+			},
+			"effect": ""
+		},
+		{
+			"id": 8,
+			"name": "Sorcerer's Robe",
+			"stats": {
+				"pdef": 107,
+				"edef": 282,
+				"eatk": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 9,
+			"name": "Confessional Armor",
+			"stats": {
+				"pdef": 212
+			},
+			"effect": "Equip: Slightly reduces ice damage taken"
+		},
+		{
+			"id": 10,
+			"name": "High House's Armor",
+			"stats": {
+				"pdef": 158,
+				"edef": 78
+			},
+			"effect": "Equip: Slightly reduces fire damage taken"
+		},
+		{
+			"id": 11,
+			"name": "Princess's Coat",
+			"stats": {
+				"pdef": 136,
+				"edef": 155
+			},
+			"effect": "Equip: Restores HP after every action"
+		},
+		{
+			"id": 12,
+			"name": "Ardante Attire",
+			"stats": {
+				"pdef": 108,
+				"edef": 186,
+				"sp": 42
+			},
+			"effect": ""
+		},
+		{
+			"id": 13,
+			"name": "Robe of the Dragon Princess",
+			"stats": {
+				"pdef": 121,
+				"edef": 136,
+				"critical": 129
+			},
+			"effect": ""
+		},
+		{
+			"id": 14,
+			"name": "Platinum Armor",
+			"stats": {
+				"pdef": 202
+			},
+			"effect": ""
+		},
+		{
+			"id": 15,
+			"name": "Vendetta Coat",
+			"stats": {
+				"pdef": 116,
+				"edef": 128,
+				"hp": 617
+			},
+			"effect": ""
+		},
+		{
+			"id": 16,
+			"name": "Imperial Armor",
+			"stats": {
+				"pdef": 173
+			},
+			"effect": ""
+		},
+		{
+			"id": 17,
+			"name": "Platinum Vest",
+			"stats": {
+				"pdef": 140,
+				"edef": 154
+			},
+			"effect": ""
+		},
+		{
+			"id": 18,
+			"name": "Imperial Vest",
+			"stats": {
+				"pdef": 120,
+				"edef": 132
+			},
+			"effect": ""
+		},
+		{
+			"id": 19,
+			"name": "Elemental Heavy Armor",
+			"stats": {
+				"pdef": 90,
+				"edef": 116,
+				"eatk": 42
+			},
+			"effect": ""
+		},
+		{
+			"id": 20,
+			"name": "Silent Cape",
+			"stats": {
+				"pdef": 102,
+				"edef": 114,
+				"evasion": 147
+			},
+			"effect": ""
+		},
+		{
+			"id": 21,
+			"name": "Primeval Robe",
+			"stats": {
+				"pdef": 99,
+				"edef": 198,
+				"sp": 35
+			},
+			"effect": ""
+		},
+		{
+			"id": 22,
+			"name": "Rainbow Robe",
+			"stats": {
+				"pdef": 82,
+				"edef": 167
+			},
+			"effect": ""
+		},
+		{
+			"id": 23,
+			"name": "Elemental Light Armor",
+			"stats": {
+				"pdef": 88,
+				"edef": 108,
+				"speed": 72
+			},
+			"effect": ""
+		},
+		{
+			"id": 24,
+			"name": "Fur Coat",
+			"stats": {
+				"pdef": 112,
+				"edef": 112
+			},
+			"effect": ""
+		},
+		{
+			"id": 25,
+			"name": "Exotic Garb",
+			"stats": {
+				"pdef": 102,
+				"edef": 121
+			},
+			"effect": "Equip: Restores SP after every action"
+		},
+		{
+			"id": 26,
+			"name": "Grand Armor",
+			"stats": {
+				"pdef": 122
+			},
+			"effect": ""
+		},
+		{
+			"id": 27,
+			"name": "Obsidian Garb",
+			"stats": {
+				"pdef": 98,
+				"edef": 112,
+				"critical": 96
+			},
+			"effect": ""
+		},
+		{
+			"id": 28,
+			"name": "Grand Vest",
+			"stats": {
+				"pdef": 90,
+				"edef": 102
+			},
+			"effect": ""
+		},
+		{
+			"id": 29,
+			"name": "Falcon Garb",
+			"stats": {
+				"pdef": 78,
+				"edef": 84,
+				"evasion": 82
+			},
+			"effect": ""
+		},
+		{
+			"id": 30,
+			"name": "Elemental Robe",
+			"stats": {
+				"pdef": 72,
+				"edef": 124,
+				"eatk": 36
+			},
+			"effect": ""
+		},
+		{
+			"id": 31,
+			"name": "Spiked Armor",
+			"stats": {
+				"pdef": 92
+			},
+			"effect": ""
+		},
+		{
+			"id": 32,
+			"name": "Silver Armor",
+			"stats": {
+				"pdef": 86
+			},
+			"effect": ""
+		},
+		{
+			"id": 33,
+			"name": "Spiked Vest",
+			"stats": {
+				"pdef": 80,
+				"edef": 100
+			},
+			"effect": ""
+		},
+		{
+			"id": 34,
+			"name": "Silver Vest",
+			"stats": {
+				"pdef": 60,
+				"edef": 68
+			},
+			"effect": ""
+		},
+		{
+			"id": 35,
+			"name": "Charm Robe",
+			"stats": {
+				"pdef": 43,
+				"edef": 82,
+				"sp": 21
+			},
+			"effect": ""
+		},
+		{
+			"id": 36,
+			"name": "Snowy Cape",
+			"stats": {
+				"pdef": 39,
+				"edef": 43,
+				"evasion": 51
+			},
+			"effect": ""
+		},
+		{
+			"id": 37,
+			"name": "Iron Armor",
+			"stats": {
+				"pdef": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 38,
+			"name": "Sturdy Armor",
+			"stats": {
+				"pdef": 42
+			},
+			"effect": ""
+		},
+		{
+			"id": 39,
+			"name": "Iron Vest",
+			"stats": {
+				"pdef": 36,
+				"edef": 49
+			},
+			"effect": ""
+		},
+		{
+			"id": 40,
+			"name": "Peacebringer's Garb",
+			"stats": {
+				"pdef": 30,
+				"edef": 39,
+				"hp": 98
+			},
+			"effect": ""
+		},
+		{
+			"id": 41,
+			"name": "Sturdy Vest",
+			"stats": {
+				"pdef": 32,
+				"edef": 42
+			},
+			"effect": ""
+		},
+		{
+			"id": 42,
+			"name": "Fur Robe",
+			"stats": {
+				"pdef": 24,
+				"edef": 64,
+				"eatk": 14
+			},
+			"effect": ""
+		},
+		{
+			"id": 43,
+			"name": "Black Attire",
+			"stats": {
+				"pdef": 20,
+				"edef": 28,
+				"evasion": 42
+			},
+			"effect": ""
+		},
+		{
+			"id": 44,
+			"name": "Wind Attire",
+			"stats": {
+				"pdef": 24,
+				"edef": 26,
+				"speed": 22
+			},
+			"effect": ""
+		},
+		{
+			"id": 45,
+			"name": "Traditional Dancer Garb",
+			"stats": {
+				"pdef": 20,
+				"edef": 22,
+				"sp": 12
+			},
+			"effect": ""
+		},
+		{
+			"id": 46,
+			"name": "Bronze Armor",
+			"stats": {
+				"pdef": 28
+			},
+			"effect": ""
+		},
+		{
+			"id": 47,
+			"name": "Bronze Vest",
+			"stats": {
+				"pdef": 19,
+				"edef": 24
+			},
+			"effect": ""
+		},
+		{
+			"id": 48,
+			"name": "Linen Robe",
+			"stats": {
+				"pdef": 13,
+				"edef": 33,
+				"eatk": 8
+			},
+			"effect": ""
+		},
+		{
+			"id": 49,
+			"name": "Leather Armor",
+			"stats": {
+				"pdef": 7
+			},
+			"effect": ""
+		},
+		{
+			"id": 50,
+			"name": "Leather Vest",
+			"stats": {
+				"pdef": 4,
+				"edef": 5
+			},
+			"effect": ""
+		},
+		{
+			"id": 51,
+			"name": "Robe",
+			"stats": {
+				"pdef": 3,
+				"edef": 7
+			},
+			"effect": ""
+		}
+	],
+	"accessories": [
+		{
+			"id": 1,
+			"name": "None",
+			"stats": {},
+			"effect": "No accessory equipped"
+		},
+		{
+			"id": 2,
+			"name": "Alluring Ribbon",
+			"stats": {},
+			"effect": "Equip: Increases the chance of encountering enemies"
+		},
+		{
+			"id": 3,
+			"name": "Captain's Badge",
+			"stats": {},
+			"effect": "Equip: Grants additional EXP"
+		},
+		{
+			"id": 4,
+			"name": "Badge of Friendship",
+			"stats": {},
+			"effect": "Equip: Grants additional JP"
+		},
+		{
+			"id": 5,
+			"name": "Dragon's Scarf",
+			"stats": {},
+			"effect": "Equip: Restores SP after every action"
+		},
+		{
+			"id": 6,
+			"name": "Beastly Scarf",
+			"stats": {},
+			"effect": "Equip: Restores HP after every action"
+		},
+		{
+			"id": 7,
+			"name": "Royal Crests",
+			"stats": {
+				"hp": 600
+			},
+			"effect": ""
+		},
+		{
+			"id": 8,
+			"name": "Gravekeeper's Mark",
+			"stats": {
+				"sp": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 9,
+			"name": "Physical Belt",
+			"stats": {
+				"patk": 65,
+				"pdef": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 10,
+			"name": "Mental Belt",
+			"stats": {
+				"eatk": 65,
+				"edef": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 11,
+			"name": "Blessed Blazon",
+			"stats": {
+				"pdef": 100,
+				"edef": 100
+			},
+			"effect": ""
+		},
+		{
+			"id": 12,
+			"name": "Blazon of Protection",
+			"stats": {
+				"pdef": 30,
+				"edef": 30
+			},
+			"effect": ""
+		},
+		{
+			"id": 13,
+			"name": "Mighty Belt",
+			"stats": {
+				"patk": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 14,
+			"name": "Elemental Augmentor",
+			"stats": {
+				"eatk": 100
+			},
+			"effect": ""
+		},
+		{
+			"id": 15,
+			"name": "Guardian Amulet",
+			"stats": {
+				"pdef": 65
+			},
+			"effect": ""
+		},
+		{
+			"id": 16,
+			"name": "Elemental Ward",
+			"stats": {
+				"edef": 65
+			},
+			"effect": ""
+		},
+		{
+			"id": 17,
+			"name": "Empowering Necklace",
+			"stats": {
+				"hp": 1000
+			},
+			"effect": ""
+		},
+		{
+			"id": 18,
+			"name": "Stimulating Necklace",
+			"stats": {
+				"sp": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 19,
+			"name": "Protective Necklace",
+			"stats": {
+				"pdef": 80,
+				"edef": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 20,
+			"name": "Unerring Necklace",
+			"stats": {
+				"accuracy": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 21,
+			"name": "Enlightening Necklace",
+			"stats": {
+				"evasion": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 22,
+			"name": "Sprightly Necklace",
+			"stats": {
+				"speed": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 23,
+			"name": "Critical Necklace",
+			"stats": {
+				"critical": 80
+			},
+			"effect": ""
+		},
+		{
+			"id": 24,
+			"name": "Empowering Bracelet",
+			"stats": {
+				"hp": 500
+			},
+			"effect": ""
+		},
+		{
+			"id": 25,
+			"name": "Stimulating Bracelet",
+			"stats": {
+				"sp": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 26,
+			"name": "Protective Bracelet",
+			"stats": {
+				"pdef": 50,
+				"edef": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 27,
+			"name": "Accuracy",
+			"stats": {
+				"accuracy": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 28,
+			"name": "Enlightening Bracelet",
+			"stats": {
+				"evasion": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 29,
+			"name": "Sprightly Bracelet",
+			"stats": {
+				"speed": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 30,
+			"name": "Critical Bracelet",
+			"stats": {
+				"critical": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 31,
+			"name": "Empowering Ring",
+			"stats": {
+				"hp": 200
+			},
+			"effect": ""
+		},
+		{
+			"id": 32,
+			"name": "Stimulating Ring",
+			"stats": {
+				"sp": 30
+			},
+			"effect": ""
+		},
+		{
+			"id": 33,
+			"name": "Protective Ring",
+			"stats": {
+				"pdef": 20,
+				"edef": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 34,
+			"name": "Unerring Ring",
+			"stats": {
+				"accuracy": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 35,
+			"name": "Enlightening Ring",
+			"stats": {
+				"evasion": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 36,
+			"name": "Sprightly Ring",
+			"stats": {
+				"speed": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 37,
+			"name": "Critical Ring",
+			"stats": {
+				"critical": 20
+			},
+			"effect": ""
+		},
+		{
+			"id": 38,
+			"name": "Empowering Earring",
+			"stats": {
+				"hp": 50
+			},
+			"effect": ""
+		},
+		{
+			"id": 39,
+			"name": "Stimulating Earring",
+			"stats": {
+				"sp": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 40,
+			"name": "Protective Earring",
+			"stats": {
+				"pdef": 10,
+				"edef": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 41,
+			"name": "Unerring Earring",
+			"stats": {
+				"accuracy": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 42,
+			"name": "Enlightening Earring",
+			"stats": {
+				"evasion": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 43,
+			"name": "Sprightly Earring",
+			"stats": {
+				"speed": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 44,
+			"name": "Critical Earring",
+			"stats": {
+				"critical": 10
+			},
+			"effect": ""
+		},
+		{
+			"id": 45,
+			"name": "Weaver's Charm",
+			"stats": {},
+			"effect": "Equip: Slightly reduces fire and light damage taken"
+		},
+		{
+			"id": 46,
+			"name": "Gentleman's Charm",
+			"stats": {},
+			"effect": "Equip: Slightly reduces lightning and dark damage taken"
+		},
+		{
+			"id": 47,
+			"name": "Gourmet's Charm",
+			"stats": {},
+			"effect": "Equip: Slightly reduces ice and wind damage taken"
+		},
+		{
+			"id": 48,
+			"name": "Inferno Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces fire damage taken"
+		},
+		{
+			"id": 49,
+			"name": "Blizzard Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces ice damage taken"
+		},
+		{
+			"id": 50,
+			"name": "Tempest Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces wind damage taken"
+		},
+		{
+			"id": 51,
+			"name": "Thunderstorm Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces lighning damage taken"
+		},
+		{
+			"id": 52,
+			"name": "Void Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces dark damage taken"
+		},
+		{
+			"id": 53,
+			"name": "Gleaming Amulet",
+			"stats": {},
+			"effect": "Equip: Greatly reduces light damage taken"
+		},
+		{
+			"id": 54,
+			"name": "Fire Amulet",
+			"stats": {},
+			"effect": "Equip: Reduces fire damage taken"
+		},
+		{
+			"id": 55,
+			"name": "Ice Amulet",
+			"stats": {},
+			"effect": "Equip: Reduces ice damage taken"
+		},
+		{
+			"id": 56,
+			"name": "Wind Amulet",
+			"stats": {},
+			"effect": "Equip: Reduces wind damage taken"
+		},
+		{
+			"id": 57,
+			"name": "Lightning Amulet",
+			"stats": {},
+			"effect": "Equip: Reduces lightning damage taken"
+		},
+		{
+			"id": 58,
+			"name": "Dark Amulet",
+			"stats": {},
+			"effect": "Equip: Reduces dark damage taken"
+		},
+		{
+			"id": 59,
+			"name": "Light AMulet",
+			"stats": {},
+			"effect": "Equip: Reduces light damage taken"
+		},
+		{
+			"id": 60,
+			"name": "Antidote Stone",
+			"stats": {},
+			"effect": "Equip: Prevents poison"
+		},
+		{
+			"id": 61,
+			"name": "Wakeful Stone",
+			"stats": {},
+			"effect": "Equip: Prevents sleep"
+		},
+		{
+			"id": 62,
+			"name": "Articulate Stone",
+			"stats": {},
+			"effect": "Equip: Prevents silence"
+		},
+		{
+			"id": 63,
+			"name": "Bright Stone",
+			"stats": {},
+			"effect": "Equip: Prevents blindness"
+		},
+		{
+			"id": 64,
+			"name": "Calming Stone",
+			"stats": {},
+			"effect": "Equip: Prevents terror"
+		},
+		{
+			"id": 65,
+			"name": "Clarity Stone",
+			"stats": {},
+			"effect": "Equip: Prevents confusion"
+		},
+		{
+			"id": 66,
+			"name": "Conscious Stone",
+			"stats": {},
+			"effect": "Equip: Prevents unconsciousness"
+		},
+		{
+			"id": 67,
+			"name": "Vivifying Stone",
+			"stats": {},
+			"effect": "Equip: Prevents instant death"
+		}
+	]
+}

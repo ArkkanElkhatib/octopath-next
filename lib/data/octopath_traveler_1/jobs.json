@@ -1,0 +1,424 @@
+{
+	"None": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {},
+		"weapons": []
+	},
+	"Apothecary": {
+		"stats": {
+			"hp": 5336,
+			"sp": 182,
+			"patk": 313,
+			"eatk": 285,
+			"pdef": 285,
+			"edef": 285,
+			"accuracy": 285,
+			"speed": 228,
+			"critical": 285,
+			"evasion": 256
+		},
+		"scaler": {
+			"hp": 1.20,
+			"sp": 1.00,
+			"patk": 1.02,
+			"eatk": 1.02,
+			"pdef": 1.02,
+			"edef": 1.00,
+			"accuracy": 1.00,
+			"speed": 1.00,
+			"critical": 1.02,
+			"evasion": 1.00
+		},
+		"weapons": [
+			"axe"
+		]
+	},
+	"Cleric": {
+		"stats": {
+			"hp": 4002,
+			"sp": 236,
+			"patk": 285,
+			"eatk": 342,
+			"pdef": 285,
+			"edef": 370,
+			"accuracy": 285,
+			"speed": 228,
+			"critical": 199,
+			"evasion": 228
+		},
+		"scaler": {
+			"sp": 1.18,
+			"eatk": 1.05,
+			"edef": 1.05
+		},
+		"weapons": [
+			"staff"
+		]
+	},
+	"Dancer": {
+		"stats": {
+			"hp": 4002,
+			"sp": 182,
+			"patk": 389,
+			"eatk": 342,
+			"pdef": 199,
+			"edef": 228,
+			"accuracy": 285,
+			"speed": 370,
+			"critical": 285,
+			"evasion": 313
+		},
+		"scaler": {
+			"eatk": 1.08,
+			"speed": 1.10,
+			"evasion": 1.10
+		},
+		"weapons": [
+			"dagger"
+		]
+	},
+	"Hunter": {
+		"stats": {
+			"hp": 4447,
+			"sp": 145,
+			"patk": 342,
+			"eatk": 285,
+			"pdef": 228,
+			"edef": 228,
+			"accuracy": 342,
+			"speed": 285,
+			"critical": 313,
+			"evasion": 313
+		},
+		"scaler": {
+			"patk": 1.08,
+			"accuracy": 1.06,
+			"speed": 1.05,
+			"critical": 1.06,
+			"evasion": 1.03
+		},
+		"weapons": [
+			"axe",
+			"bow"
+		]
+	},
+	"Merchant": {
+		"stats": {
+			"hp": 4891,
+			"sp": 182,
+			"patk": 313,
+			"eatk": 313,
+			"pdef": 285,
+			"edef": 285,
+			"accuracy": 285,
+			"speed": 256,
+			"critical": 256,
+			"evasion": 256
+		},
+		"scaler": {
+			"hp": 1.08,
+			"sp": 1.08,
+			"patk": 1.03,
+			"eatk": 1.03,
+			"pdef": 1.03,
+			"edef": 1.03
+		},
+		"weapons": [
+			"polearm",
+			"bow"
+		]
+	},
+	"Scholar": {
+		"stats": {
+			"hp": 3557,
+			"sp": 218,
+			"patk": 256,
+			"eatk": 370,
+			"pdef": 256,
+			"edef": 342,
+			"accuracy": 285,
+			"speed": 256,
+			"critical": 228,
+			"evasion": 285
+		},
+		"scaler": {
+			"sp": 1.13,
+			"eatk": 1.10,
+			"edef": 1.05
+		},
+		"weapons": [
+			"staff"
+		]
+	},
+	"Thief": {
+		"stats": {
+			"hp": 4447,
+			"sp": 145,
+			"patk": 313,
+			"eatk": 285,
+			"pdef": 228,
+			"edef": 228,
+			"accuracy": 313,
+			"speed": 342,
+			"critical": 285,
+			"evasion": 342
+		},
+		"scaler": {
+			"patk": 1.02,
+			"accuracy": 1.05,
+			"speed": 1.08,
+			"critical": 1.05,
+			"evasion": 1.08
+		},
+		"weapons": [
+			"sword",
+			"dagger"
+		]
+	},
+	"Warrior": {
+		"stats": {
+			"hp": 5781,
+			"sp": 145,
+			"patk": 342,
+			"eatk": 256,
+			"pdef": 313,
+			"edef": 228,
+			"accuracy": 313,
+			"speed": 285,
+			"critical": 285,
+			"evasion": 228
+		},
+		"scaler": {
+			"hp": 1.18,
+			"patk": 1.05,
+			"pdef": 1.05
+		},
+		"weapons": [
+			"sword",
+			"polearm"
+		]
+	},
+	"Runelord": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"patk": 1.07,
+			"eatk": 1.07,
+			"pdef": 1.06,
+			"edef": 1.06,
+			"accuracy": 1.06,
+			"critical": 1.08
+		},
+		"weapons": [
+			"sword",
+			"axe"
+		]
+	},
+	"Sorcerer": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"sp": 1.20,
+			"eatk": 1.09,
+			"edef": 1.09,
+			"critical": 1.02
+		},
+		"weapons": [
+			"bow",
+			"staff"
+		]
+	},
+	"Starseer": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"hp": 1.15,
+			"sp": 1.15,
+			"patk": 1.02,
+			"eatk": 1.02,
+			"pdef": 1.02,
+			"edef": 1.02,
+			"evasion": 1.02
+		},
+		"weapons": [
+			"polearm",
+			"dagger"
+		]
+	},
+	"Warmaster": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"patk": 1.12,
+			"pdef": 1.12,
+			"accuracy": 1.06,
+			"speed": 1.06,
+			"evasion": 1.04
+		},
+		"weapons": [
+			"sword",
+			"polearm",
+			"dagger",
+			"axe",
+			"bow",
+			"staff"
+		]
+	},
+	"Armsmaster": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"patk": 1.12,
+			"pdef": 1.12,
+			"accuracy": 1.06,
+			"speed": 1.06,
+			"evasion": 1.04
+		},
+		"weapons": [
+			"sword",
+			"polearm",
+			"dagger",
+			"axe",
+			"bow",
+			"staff"
+		]
+	},
+	"Arcanist": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"sp": 1.20,
+			"eatk": 1.09,
+			"edef": 1.09,
+			"critical": 1.02
+		},
+		"weapons": [
+			"dagger",
+			"staff"
+		]
+	},
+	"Conjurer": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"hp": 1.15,
+			"sp": 1.15,
+			"patk": 1.02,
+			"eatk": 1.02,
+			"pdef": 1.02,
+			"edef": 1.02,
+			"evasion": 1.02
+		},
+		"weapons": [
+			"bow",
+			"staff"
+		]
+	},
+	"Inventor": {
+		"stats": {
+			"hp": 0,
+			"sp": 0,
+			"patk": 0,
+			"eatk": 0,
+			"pdef": 0,
+			"edef": 0,
+			"accuracy": 0,
+			"speed": 0,
+			"critical": 0,
+			"evasion": 0
+		},
+		"scaler": {
+			"patk": 1.07,
+			"eatk": 1.07,
+			"pdef": 1.06,
+			"edef": 1.06,
+			"accuracy": 1.06,
+			"critical": 1.08
+		},
+		"weapons": [
+			"sword",
+			"axe"
+		]
+	}
+}
